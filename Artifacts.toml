@@ -1,0 +1,160 @@
+[[lwbgt]]
+arch = "aarch64"
+git-tree-sha1 = "20d2e7707729003c3defbee857e4fcba4df3a47a"
+os = "macos"
+
+    [[lwbgt.download]]
+    sha256 = "09f50cf8fb76c8c0876391a5b5d330ee32c04f2a6c7e97d5f38808c0bd886ce1"
+    url = "https://github.com/JuliaBinaryWrappers/lwbgt_jll.jl/releases/download/lwbgt-v1.1.0+0/lwbgt.v1.1.0.aarch64-apple-darwin.tar.gz"
+[[lwbgt]]
+arch = "aarch64"
+git-tree-sha1 = "5a64bdc03fdfec4d79d1b68ead00275011c5b5ac"
+libc = "glibc"
+os = "linux"
+
+    [[lwbgt.download]]
+    sha256 = "f4fc0ce280c94b856480221abc90aa64eafe90f4cee05053b6115c8e4a76c2e7"
+    url = "https://github.com/JuliaBinaryWrappers/lwbgt_jll.jl/releases/download/lwbgt-v1.1.0+0/lwbgt.v1.1.0.aarch64-linux-gnu.tar.gz"
+[[lwbgt]]
+arch = "aarch64"
+git-tree-sha1 = "7b507a7ec23682a120f64a212970d2d0cdd5f35d"
+libc = "musl"
+os = "linux"
+
+    [[lwbgt.download]]
+    sha256 = "3d955ac2f46c24232b26da1692b7e83dfe0b91bfb6b69d998ef281609d3d0fa6"
+    url = "https://github.com/JuliaBinaryWrappers/lwbgt_jll.jl/releases/download/lwbgt-v1.1.0+0/lwbgt.v1.1.0.aarch64-linux-musl.tar.gz"
+[[lwbgt]]
+arch = "aarch64"
+git-tree-sha1 = "31f7c4329d2d7ea7a89407b57b88ca38ef7ac00c"
+os = "freebsd"
+
+    [[lwbgt.download]]
+    sha256 = "f5b9d5e49e4a9f8503151b8be2864cf908e93d40d14ed5febd4c03c35399d850"
+    url = "https://github.com/JuliaBinaryWrappers/lwbgt_jll.jl/releases/download/lwbgt-v1.1.0+0/lwbgt.v1.1.0.aarch64-unknown-freebsd.tar.gz"
+[[lwbgt]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "370e7b900b902e82791b87b7da3bdce51a7994a0"
+libc = "glibc"
+os = "linux"
+
+    [[lwbgt.download]]
+    sha256 = "e5e16088fdc68efaa0bca7a9b9fd7b0c113fdd76ef8b3d43b0c1afd1bd8be3b5"
+    url = "https://github.com/JuliaBinaryWrappers/lwbgt_jll.jl/releases/download/lwbgt-v1.1.0+0/lwbgt.v1.1.0.armv6l-linux-gnueabihf.tar.gz"
+[[lwbgt]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "6c551bdc466404e0140147981ddf3a3708fddac5"
+libc = "musl"
+os = "linux"
+
+    [[lwbgt.download]]
+    sha256 = "61622b592b7fc24d79afcd82b3eeb8da17e1e5355a3bea71ff8896999d7dcc95"
+    url = "https://github.com/JuliaBinaryWrappers/lwbgt_jll.jl/releases/download/lwbgt-v1.1.0+0/lwbgt.v1.1.0.armv6l-linux-musleabihf.tar.gz"
+[[lwbgt]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "10439eacb1a98c0f80b926eb7de3a70f28f34d6b"
+libc = "glibc"
+os = "linux"
+
+    [[lwbgt.download]]
+    sha256 = "a4158bcd515289e0b89d3055241a7714f70503f79f66de1936bc7da8c6f59772"
+    url = "https://github.com/JuliaBinaryWrappers/lwbgt_jll.jl/releases/download/lwbgt-v1.1.0+0/lwbgt.v1.1.0.armv7l-linux-gnueabihf.tar.gz"
+[[lwbgt]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "03cb04ec211d1408198af322584f0d2aacc7ae24"
+libc = "musl"
+os = "linux"
+
+    [[lwbgt.download]]
+    sha256 = "d0abd2992746c065d1158a17df233eb092657444c50dc1c9b8f9feffa4f05b2e"
+    url = "https://github.com/JuliaBinaryWrappers/lwbgt_jll.jl/releases/download/lwbgt-v1.1.0+0/lwbgt.v1.1.0.armv7l-linux-musleabihf.tar.gz"
+[[lwbgt]]
+arch = "i686"
+git-tree-sha1 = "bdd7917e45ef26f6fd61bba5cbbcfbe140200e14"
+libc = "glibc"
+os = "linux"
+
+    [[lwbgt.download]]
+    sha256 = "42d2b3ba2cce15a689bad2ad0d87f4dae287e84c18e3354969e580d39edd3bc2"
+    url = "https://github.com/JuliaBinaryWrappers/lwbgt_jll.jl/releases/download/lwbgt-v1.1.0+0/lwbgt.v1.1.0.i686-linux-gnu.tar.gz"
+[[lwbgt]]
+arch = "i686"
+git-tree-sha1 = "3949c76cf30fe50a16a45975f2f1409c662a952b"
+libc = "musl"
+os = "linux"
+
+    [[lwbgt.download]]
+    sha256 = "f047d7a247e11c9c9c44f2a9b91ef6074c50dcb2737056168944032ec065a8d8"
+    url = "https://github.com/JuliaBinaryWrappers/lwbgt_jll.jl/releases/download/lwbgt-v1.1.0+0/lwbgt.v1.1.0.i686-linux-musl.tar.gz"
+[[lwbgt]]
+arch = "i686"
+git-tree-sha1 = "17f008a679f451dfeedd8b649d7ecceda7435cfe"
+os = "windows"
+
+    [[lwbgt.download]]
+    sha256 = "fb722a55ded2bf9b143e6c685696d24d8397820a31880c3b1b2b6605abcf7279"
+    url = "https://github.com/JuliaBinaryWrappers/lwbgt_jll.jl/releases/download/lwbgt-v1.1.0+0/lwbgt.v1.1.0.i686-w64-mingw32.tar.gz"
+[[lwbgt]]
+arch = "powerpc64le"
+git-tree-sha1 = "d92094759addff1bdc067af964f54aa6a42f78d0"
+libc = "glibc"
+os = "linux"
+
+    [[lwbgt.download]]
+    sha256 = "73a0ac06fcba99cf1a7cea59ba998aec2952abbab8dba98e1393e0a3395f4475"
+    url = "https://github.com/JuliaBinaryWrappers/lwbgt_jll.jl/releases/download/lwbgt-v1.1.0+0/lwbgt.v1.1.0.powerpc64le-linux-gnu.tar.gz"
+[[lwbgt]]
+arch = "riscv64"
+git-tree-sha1 = "b7b8b3aa585eddec34c6c84e764746e29b0eb8f5"
+libc = "glibc"
+os = "linux"
+
+    [[lwbgt.download]]
+    sha256 = "19c4db63223462e4b3b04bbe0b9d2becb449d967b1c67aa2721698eece3f3879"
+    url = "https://github.com/JuliaBinaryWrappers/lwbgt_jll.jl/releases/download/lwbgt-v1.1.0+0/lwbgt.v1.1.0.riscv64-linux-gnu.tar.gz"
+[[lwbgt]]
+arch = "x86_64"
+git-tree-sha1 = "93564a71a736db06c41658ba336463795b827135"
+os = "macos"
+
+    [[lwbgt.download]]
+    sha256 = "1b79999bcc649e97066e4b486b3c93f6f5076ab0bc78b60d7f2e31ead5ed74ed"
+    url = "https://github.com/JuliaBinaryWrappers/lwbgt_jll.jl/releases/download/lwbgt-v1.1.0+0/lwbgt.v1.1.0.x86_64-apple-darwin.tar.gz"
+[[lwbgt]]
+arch = "x86_64"
+git-tree-sha1 = "33299e04907c029699d70933eb56ae5a9b2d43ce"
+libc = "glibc"
+os = "linux"
+
+    [[lwbgt.download]]
+    sha256 = "677f38dba3e5a00684a31194d5c395698d22f9a30a8c3a7b68ca498899a4e715"
+    url = "https://github.com/JuliaBinaryWrappers/lwbgt_jll.jl/releases/download/lwbgt-v1.1.0+0/lwbgt.v1.1.0.x86_64-linux-gnu.tar.gz"
+[[lwbgt]]
+arch = "x86_64"
+git-tree-sha1 = "ed847893df723d21eb9d609daeeab34c058ce9b9"
+libc = "musl"
+os = "linux"
+
+    [[lwbgt.download]]
+    sha256 = "62b5c9fbf38b96eaa37cec2f0d06eca98f994d7e55363501ecb2465c0e66b4d8"
+    url = "https://github.com/JuliaBinaryWrappers/lwbgt_jll.jl/releases/download/lwbgt-v1.1.0+0/lwbgt.v1.1.0.x86_64-linux-musl.tar.gz"
+[[lwbgt]]
+arch = "x86_64"
+git-tree-sha1 = "a64aae8644455c74a2d335852a64bc65688c9338"
+os = "freebsd"
+
+    [[lwbgt.download]]
+    sha256 = "545e932200214c151855ea0703ed941bee02ce0f61d953ee73cc1e6b2823a4d2"
+    url = "https://github.com/JuliaBinaryWrappers/lwbgt_jll.jl/releases/download/lwbgt-v1.1.0+0/lwbgt.v1.1.0.x86_64-unknown-freebsd.tar.gz"
+[[lwbgt]]
+arch = "x86_64"
+git-tree-sha1 = "89f4b1bbfbffc24833c155e0935f357caa9b6301"
+os = "windows"
+
+    [[lwbgt.download]]
+    sha256 = "76389e4ff49625fb0e6b4843caa759da4aa369357a308c813901af835746f99d"
+    url = "https://github.com/JuliaBinaryWrappers/lwbgt_jll.jl/releases/download/lwbgt-v1.1.0+0/lwbgt.v1.1.0.x86_64-w64-mingw32.tar.gz"
